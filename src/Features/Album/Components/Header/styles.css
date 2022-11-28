@@ -1,0 +1,27 @@
+#header {
+    background-color: black;
+    height : 46.5px;
+}
+
+#nav {
+
+}
+
+#nav li {
+    display: inline-block;
+    
+    line-height : 46.5px;
+}
+
+#nav li a {
+    color : white ;
+    padding : 0 24px;
+    display: block;
+    list-style-type: none;
+    text-transform: uppercase;
+}
+
+#nav li:hover a {
+    color: #000;
+    background-color: #ccc;
+}
